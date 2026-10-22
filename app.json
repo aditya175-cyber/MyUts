@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "My App UTS Mobile 1",
+    "slug": "uts-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": false },
+    "android": { "edgeToEdgeEnabled": true }
+  }
+}
